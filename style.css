@@ -12,6 +12,7 @@
     align-items: center;
     flex-wrap: wrap;
     align-content: space-between;
+    flex-flow: row wrap;/* Shortand de flex-direction + flex */
 }
 
 .item {
